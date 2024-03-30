@@ -3,7 +3,7 @@
 #### A data analysis project on retail promotion in the FMCG domain, leveraging SQL and Power BI
 
 ![210844-P1YZBA-430](https://github.com/arbayzid/Retail-Promotion-Analysis/assets/146184500/e647bd54-cd24-448a-a49f-4b0fd6b1f7a0)
-
+📊 Live Dashboard: [Retail Promotion Analysis](https://www.novypro.com/project/retail-promotion-analysis-1)
 ## Project Title
 Retail Promotion Analysis at AtliQ Mart
 ## Domain
@@ -204,7 +204,7 @@ Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentag
 
 Design and mock-up of a user-friendly dashboard have been developed using Figma to incorporate relevant metrics and visualizations, Segmented analysis by city, store, promotion, category, and product for deeper insights, providing a comprehensive overview of performance in revenue and sales growth.
 
-📊 Live Dashboard: https://www.novypro.com/project/retail-promotion-analysis-1
+📊 Live Dashboard: [Retail Promotion Analysis](https://www.novypro.com/project/retail-promotion-analysis-1)
 
 The dashboard comprises the following components:
 
