@@ -203,6 +203,9 @@ Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentag
 ## Dashboard Design and Development
 
 Design and mock-up of a user-friendly dashboard have been developed using Figma to incorporate relevant metrics and visualizations, Segmented analysis by city, store, promotion, category, and product for deeper insights, providing a comprehensive overview of performance in revenue and sales growth.
+
+📊 Live Dashboard: https://www.novypro.com/project/retail-promotion-analysis-1
+
 The dashboard comprises the following components:
 
 - ### Key Performance Indicators (KPI)
